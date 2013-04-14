@@ -1,0 +1,5 @@
+End-user license agreement
+--------------------------
+1) if you/anyone modify and/or edit the software you must post a link to download the modified copy on the webpage that its used upon
+2) derived works can only be distributed under the same license terms.
+3) if you/anyone modify it into any other source-code you must post the full source-code with a link to download it
