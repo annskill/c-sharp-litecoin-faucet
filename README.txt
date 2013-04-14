@@ -1,4 +1,4 @@
-litecoin-faucet
+c sharp litecoin faucet
 ===============
 made in C#
 
